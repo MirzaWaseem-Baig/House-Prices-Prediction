@@ -25,9 +25,7 @@ Achieved a predictive model and demonstrating effective performance in predictin
 To run the project locally:
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Install dependencies listed in `requirements.txt`.
-4. Run `python script_name.py` for training, evaluation, or prediction tasks.
-
+   
 ### Acknowledgments
 - Inspiration and dataset sourced from https://www.kaggle.com/datasets/camnugent/california-housing-prices
 - Thanks to @NeuralNine for guidance and support.
